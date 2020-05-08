@@ -9,8 +9,8 @@ namespace Gradebook
         {
             if (args.Length > 0)
             {
-                var x = 34.1;
-                double y = 35.5;
+                // var x = 34.1;
+                // double y = 35.5;
 
                 double[] numbers = new double[3];
                 numbers[0] = 1;
