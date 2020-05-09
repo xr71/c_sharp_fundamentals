@@ -1,0 +1,13 @@
+/home/xuren/devprojects/dotnetdev/c_sharp_fundamentals/p5_execution_control_flow/gradebook/src/Gradebook/bin/Debug/netcoreapp3.1/Gradebook
+/home/xuren/devprojects/dotnetdev/c_sharp_fundamentals/p5_execution_control_flow/gradebook/src/Gradebook/bin/Debug/netcoreapp3.1/Gradebook.deps.json
+/home/xuren/devprojects/dotnetdev/c_sharp_fundamentals/p5_execution_control_flow/gradebook/src/Gradebook/bin/Debug/netcoreapp3.1/Gradebook.runtimeconfig.json
+/home/xuren/devprojects/dotnetdev/c_sharp_fundamentals/p5_execution_control_flow/gradebook/src/Gradebook/bin/Debug/netcoreapp3.1/Gradebook.runtimeconfig.dev.json
+/home/xuren/devprojects/dotnetdev/c_sharp_fundamentals/p5_execution_control_flow/gradebook/src/Gradebook/bin/Debug/netcoreapp3.1/Gradebook.dll
+/home/xuren/devprojects/dotnetdev/c_sharp_fundamentals/p5_execution_control_flow/gradebook/src/Gradebook/bin/Debug/netcoreapp3.1/Gradebook.pdb
+/home/xuren/devprojects/dotnetdev/c_sharp_fundamentals/p5_execution_control_flow/gradebook/src/Gradebook/obj/Debug/netcoreapp3.1/Gradebook.csprojAssemblyReference.cache
+/home/xuren/devprojects/dotnetdev/c_sharp_fundamentals/p5_execution_control_flow/gradebook/src/Gradebook/obj/Debug/netcoreapp3.1/Gradebook.csproj.CoreCompileInputs.cache
+/home/xuren/devprojects/dotnetdev/c_sharp_fundamentals/p5_execution_control_flow/gradebook/src/Gradebook/obj/Debug/netcoreapp3.1/Gradebook.AssemblyInfoInputs.cache
+/home/xuren/devprojects/dotnetdev/c_sharp_fundamentals/p5_execution_control_flow/gradebook/src/Gradebook/obj/Debug/netcoreapp3.1/Gradebook.AssemblyInfo.cs
+/home/xuren/devprojects/dotnetdev/c_sharp_fundamentals/p5_execution_control_flow/gradebook/src/Gradebook/obj/Debug/netcoreapp3.1/Gradebook.dll
+/home/xuren/devprojects/dotnetdev/c_sharp_fundamentals/p5_execution_control_flow/gradebook/src/Gradebook/obj/Debug/netcoreapp3.1/Gradebook.pdb
+/home/xuren/devprojects/dotnetdev/c_sharp_fundamentals/p5_execution_control_flow/gradebook/src/Gradebook/obj/Debug/netcoreapp3.1/Gradebook.genruntimeconfig.cache

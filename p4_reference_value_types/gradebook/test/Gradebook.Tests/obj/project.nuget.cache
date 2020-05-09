@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "eAfQVcLNv6WC7JHog8EN4xpMO6tw49mAeckGonQlYbJy5BjbaAJhqO9GdFlkuq5+BOyD/8sK6QZRyOlJzlqPSQ==",
+  "dgSpecHash": "3ZilpzCkAWwLTsMUU8+6iP9hgWziYvdVG7Ns6BlsqxpdfAfuYF1ZaX0JRdxk6mDVH7pwoQ/Q23qVqaEd6aAN3g==",
   "success": true,
   "projectFilePath": "/home/xuren/devprojects/dotnetdev/c_sharp_fundamentals/p4_reference_value_types/gradebook/test/Gradebook.Tests/Gradebook.Tests.csproj",
   "expectedPackageFiles": [
