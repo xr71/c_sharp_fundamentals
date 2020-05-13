@@ -79,5 +79,17 @@ namespace Gradebook
                 throw new ArgumentException($"Invalid {nameof(grade)}");
             }
         }
+
+        public void AddGrade(char letter)
+        {
+            if (letter == 'A')
+            {
+                grades.Add(90);
+            }
+            else
+            {
+                grades.Add(0);
+            }
+        }
     }
 }

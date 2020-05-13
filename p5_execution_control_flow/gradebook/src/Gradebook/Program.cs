@@ -28,6 +28,9 @@ namespace Gradebook
                     {
                         var ingradenum = double.Parse(ingrade);
                         book.AddGrade(ingradenum);
+
+                        // we can use an overloaded method to also add a char
+                        // book.AddGrade('A');
                     }
                     catch (Exception ex)
                     {

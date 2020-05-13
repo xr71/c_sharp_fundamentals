@@ -29,6 +29,18 @@ namespace Gradebook
             grades.Add(grade);
         }
 
+        public void AddGrade(char letter)
+        {
+            if (letter = 'A')
+            {
+                grades.Add(90);
+            }
+            else
+            {
+                grades.Add(0);
+            }
+        }
+
         public void ShowStatistics()
         {
             double highGrade = double.MinValue;
